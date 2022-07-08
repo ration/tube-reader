@@ -1,0 +1,13 @@
+* Tube-Reader
+
+MVP Goal:
+- Categorize and watch YouTube subscriptions. Remember watched state.
+
+
+* Journal
+** 2022-07-08T10:56:35+03:00
+
+Still undecided on implementation details. Is front for all things YouTube enough? backend for only minimal metadata
+storage of data unavailable from YouTube API. Seems like easiest approach.
+
+Still not read the docs whether the APIs support the minimal set of requirements I have (list subscriptions, watch state etc.).
